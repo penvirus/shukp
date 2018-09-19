@@ -20,6 +20,7 @@ Simple Host Universal Konfiguration Protocol (shukp)
 
 不負責任的設計圖：
 
+```
 +----------------+          +-----------------+
 | client (local) |          | server (remote) |
 +----------------+          +-----------------+
@@ -36,6 +37,7 @@ Simple Host Universal Konfiguration Protocol (shukp)
         |          COMMANDS          |
 	| <------------------------> |
         |                            |
+```
 
 COMMANDS: RESET, QUIT, DATA, arbitary commands
 
