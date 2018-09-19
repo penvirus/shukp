@@ -37,9 +37,9 @@ Simple Host Universal Konfiguration Protocol (shukp)
         |          COMMANDS          |
 	| <------------------------> |
         |                            |
-```
 
 COMMANDS: RESET, QUIT, DATA, arbitary commands
+```
 
 一如往常，shuk是一個朋友的名字，不具其他特別意義。
 
